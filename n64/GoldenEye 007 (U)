@@ -1,0 +1,6 @@
+[DCBC50D1-09FD1AA3-C:45]
+Name=GoldenEye 007 (U)
+
+$Force Widescreen
+D0040ADB 0000
+80040ADB 0001
